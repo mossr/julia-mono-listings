@@ -5,6 +5,8 @@ A custom Julia language style for the LaTeX `listings` package, and Unicode supp
 - Julia Unicode: https://docs.julialang.org/en/v1/manual/unicode-input
 - Julia pygments: https://github.com/sisl/pygments-julia
 
+> Note, we use `lualatex` for compilation.
+
 ## Example
 
 Typesetting the [*Thompson sampling algorithm*](https://github.com/mossr/BeautifulAlgorithms.jl/blob/master/src/thompson_sampling.jl) from [`BeautifulAlgorithms.jl`](https://github.com/mossr/BeautifulAlgorithms.jl).
