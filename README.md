@@ -16,7 +16,7 @@ Typesetting the [*Thompson sampling algorithm*](https://github.com/mossr/Beautif
 \input{julia_font}
 \input{julia_listings}
 
-\lstset{JuliaLocal}[]{Julia}{ % inherit Julia lang. to add keywords
+\lstdefinelanguage{JuliaLocal}[]{Julia}{ % inherit Julia lang. to add keywords
     morekeywords=[3]{thompson_sampling}, % define more functions
     morekeywords=[2]{Beta, Distributions}, % define more types and modules
 }
