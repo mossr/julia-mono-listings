@@ -11,6 +11,8 @@ A custom Julia language style for the LaTeX `listings` package, and Unicode supp
 
 Typesetting the [*Thompson sampling algorithm*](https://github.com/mossr/BeautifulAlgorithms.jl/blob/master/src/thompson_sampling.jl) from [`BeautifulAlgorithms.jl`](https://github.com/mossr/BeautifulAlgorithms.jl).
 
+- See template on [Overleaf](https://www.overleaf.com/read/qrpfvszrjjwf) (go to "Menu" ⟶ "Copy Project").
+
 **The LaTeX document:**
 ```latex
 \documentclass[11pt]{article}
