@@ -47,3 +47,8 @@ end
 <kbd>
     <img src="./img/example.svg">
 </kbd>
+
+
+# License
+
+The font license is located [here](https://github.com/cormullion/juliamono/blob/master/LICENSE), and the license for this repo is located at [LICENSE.md](./LICENSE.md).
