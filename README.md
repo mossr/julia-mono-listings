@@ -1,6 +1,6 @@
 # julia-mono-listings
 
-A custom Julia language style for the LaTeX `listings` package, and Unicode support for the [JuliaMono](https://juliamono.netlify.app/) font in a `lstlisting` environment. 
+A custom Julia language style for the LaTeX `listings` package, and Unicode support for the [JuliaMono](https://juliamono.netlify.app/) font in a `lstlisting` environment.
 - JuliaMono: https://github.com/cormullion/juliamono
 - Julia Unicode: https://docs.julialang.org/en/v1/manual/unicode-input
 - Julia pygments: https://github.com/sisl/pygments-julia
@@ -26,7 +26,7 @@ Typesetting the [*Thompson sampling algorithm*](https://github.com/mossr/Beautif
 }
 
 \begin{document}
-\begin{lstlisting}[language=JuliaLocal]
+\begin{lstlisting}[language=JuliaLocal, style=julia]
 using Distributions
 
 function thompson_sampling(𝛂, 𝛃, apply; T=100)
