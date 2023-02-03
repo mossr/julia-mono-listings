@@ -17,8 +17,7 @@ Typesetting the [*Thompson sampling algorithm*](https://github.com/mossr/Beautif
 ```latex
 \documentclass[11pt]{article}
 
-\input{julia_font}
-\input{julia_listings}
+\usepackage{julia-mono-listings}
 
 \lstdefinelanguage{JuliaLocal}{
     language = Julia, % inherit Julia lang. to add keywords
